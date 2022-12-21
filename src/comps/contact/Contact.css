@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #a00505; }
+
+.sesion .title h2 {
+  font-weight: bolder;
+  color: #a00505; }
+.sesion .row .c {
+  font-weight: bolder;
+  font-size: 15px; }
+  .sesion .row .c .left-side div p {
+    border-left: 3px solid #a00505; }
+    .contact .row .c .left-side div p i {
+      color: #a00505; }
+
+      .btn-primary:hover {
+        color: #fff;
+        background-color: #a00505;
+        border-color: #a00505;
+      }
+      
+      .btn-primary {
+        color: #fff;
+        background-color: #a00505;
+        border-color: #a00505;
+      }
+      a:hover {
+        color: #a00505;
+      }
+      a{
+        color: #a00505;
+      }
+      .link-primary:hover {
+        color: #a00505;
+      }
+      .link-primary {
+        color: #a00505;
+      }
+/*# sourceMappingURL=Contact.css.map */

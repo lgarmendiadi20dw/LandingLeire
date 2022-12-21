@@ -1,0 +1,19 @@
+#btn-up {
+  z-index: 9999;
+  top: 90%;
+  left: 2%;
+  transition: 0.3s; }
+  #btn-up:hover {
+    transform: scale(1.05); }
+    .btn-success:hover {
+      color: #fff;
+      background-color: #a51b1b !important;
+      border-color:#a51b1b !important;
+    }
+    .btn-success {
+      color: #fff;
+      background-color: #a51b1b !important;
+      border-color:#a51b1b !important;
+    }
+    
+

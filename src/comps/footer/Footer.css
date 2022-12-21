@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #a00505; }
+
+.contact .title h2 {
+  font-weight: bolder;
+  color: #a00505; }
+.contact .row .c {
+  font-weight: bolder;
+  font-size: 15px; }
+  .contact .row .c .left-side div p {
+    border-left: 3px solid #a00505; }
+    .contact .row .c .left-side div p i {
+      color: #a00505; }
+
+      .btn-primary:hover {
+        color: #fff;
+        background-color: #a00505;
+        border-color: #a00505;
+      }
+      
+      .btn-primary {
+        color: #fff;
+        background-color: #a00505;
+        border-color: #a00505;
+      }
+      a:hover {
+        color: #a00505;
+      }
+      a{
+        color: #a00505;
+      }
+      .link-primary:hover {
+        color: #a00505;
+      }
+      .link-primary {
+        color: #a00505;
+      }
+
+.footer .container .row .c .s .title h5 {
+  font-weight: bold; }
+.footer .container .row .c .first-side .first-sub-side .brand-name {
+  font-family: 'Rampart One', cursive;
+  font-size: 20px;
+  letter-spacing: 2px; }
+  .footer .container .row .c .first-side .first-sub-side .brand-name span {
+    color: #a00505; }
+.footer .container .row .c .first-side .second-sub-side p a {
+  color: #a00505;
+  font-weight: bolder;
+  text-decoration: none; }
+.footer .container .row .c .s .links a {
+  text-decoration: none; }
+.footer .container .row .c .s p .owner, .footer .container .row .c .s p .year, .footer .container .row .c .s p .fab {
+  font-weight: bolder;
+  color: #a00505; }
+
