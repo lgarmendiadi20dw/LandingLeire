@@ -1,31 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e461cc86.css",
-    "main.js": "/static/js/main.6ab20cda.js",
-    "static/media/1.jpg": "/static/media/1.cd1b0a3f6e5ee88b7e29.jpg",
-    "static/media/7.jpg": "/static/media/7.08a5aaa720443bc7a6ae.jpg",
-    "static/media/3.jpg": "/static/media/3.532290f086e5ab93f88f.jpg",
-    "static/media/5.jpg": "/static/media/5.d20c7be8c2cc9ed11587.jpg",
-    "static/media/6.jpg": "/static/media/6.7d152991f66df2673770.jpg",
-    "static/media/4.jpg": "/static/media/4.64549abcd6f1cccac9c3.jpg",
-    "static/media/7.png": "/static/media/7.7b36a9354693b2d0e7ea.png",
-    "static/media/3.png": "/static/media/3.5d891bd6b824e838632d.png",
-    "static/media/5.png": "/static/media/5.950bcbc915235e498ea2.png",
-    "static/media/2.jpg": "/static/media/2.41d84077baf30bc52332.jpg",
-    "static/media/9.png": "/static/media/9.2632c95597025e352970.png",
-    "static/media/6.png": "/static/media/6.379a338386fc7a70be28.png",
-    "static/media/2.png": "/static/media/2.e77bb248425f19079f2e.png",
+    "main.js": "/static/js/main.79f7361f.js",
     "static/media/logo2.jpeg": "/static/media/logo2.0de72ee92427dcafa0bd.jpeg",
-    "static/media/1.png": "/static/media/1.7e5cf4e842bc87f02dbd.png",
     "static/media/letas_negras_sin_fondo.png": "/static/media/letas_negras_sin_fondo.5c239f640d5d62ff0e24.png",
     "static/media/Logo_dos_colores_fondo_negro-removebg-preview.png": "/static/media/Logo_dos_colores_fondo_negro-removebg-preview.59efaaf32248b8c78c10.png",
     "static/media/Logo1.png": "/static/media/Logo1.564ea48bf492327bf639.png",
     "index.html": "/index.html",
     "main.e461cc86.css.map": "/static/css/main.e461cc86.css.map",
-    "main.6ab20cda.js.map": "/static/js/main.6ab20cda.js.map"
+    "main.79f7361f.js.map": "/static/js/main.79f7361f.js.map"
   },
   "entrypoints": [
     "static/css/main.e461cc86.css",
-    "static/js/main.6ab20cda.js"
+    "static/js/main.79f7361f.js"
   ]
 }
